@@ -6,7 +6,7 @@
         "github_url":"https://github.com/yashpal-97/Daily-Expense-Tracker",
         "title": "Daily Expense Tracker",
         "description": "This is an Expense Tracking application for daily use. You can track your daily income and expenses and also can see your expense graph. ",
-        "tech"; ["react.js", "MongoDB", "javascript", "express.js", "material ui"]
+        "tech": ["react.js", "MongoDB", "javascript", "express.js", "material ui"]
       }
     ]
   },
